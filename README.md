@@ -1,4 +1,4 @@
-# Modelos-1-G82
+# *Modelos-1-G82*
 Modelos de programacion 1 G82
 
 # Principios usados en este programa
