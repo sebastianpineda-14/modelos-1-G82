@@ -8,5 +8,6 @@ Este principio es usado en el diseño desde un comiezo pues para hacer el progra
 ## DRY 
 Este principio es usado pues en relación con el principio de responsabilidad única , a cada clase se le otorga una funcionalidad única y no ambigua. No hay funcionalidades duplicadas
 
-##KISS
+## KISS
+Este principio se usa a la hora de definir claramente cada atributo y cada método buscando que sea entendible para cada persona que lo vea.
 
