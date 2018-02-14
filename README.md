@@ -7,10 +7,10 @@ Modelos de programacion 1 G82
  - Este principio es usado en el diseño desde un comiezo pues para hacer el programa más entendible , cada clase cumple un única función.
 
 - ## DRY 
- - Este principio es usado pues en relación con el principio de responsabilidad única , a cada clase se le otorga una funcionalidad única y no ambigua. No hay funcionalidades duplicadas
+  - Este principio es usado pues en relación con el principio de responsabilidad única , a cada clase se le otorga una funcionalidad única y no ambigua. No hay funcionalidades duplicadas
 
 - ## KISS
- - Este principio se usa a la hora de definir claramente cada atributo y cada método buscando que sea entendible para cada persona que lo vea.
+  - Este principio se usa a la hora de definir claramente cada atributo y cada método buscando que sea entendible para cada persona que lo vea.
 
 - Esto es viñeta 1.
   - Viñeta 1.1 con sangria.
