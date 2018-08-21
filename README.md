@@ -11,3 +11,4 @@ Modelos de programacion 1 G82
 
 - ## KISS
   - Este principio se usa a la hora de definir claramente cada atributo y cada método buscando que sea entendible para cada persona que lo vea.
+Cui <3
